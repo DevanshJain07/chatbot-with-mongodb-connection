@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start":"nodemon server.js",
+    "start": "nodemon server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -13,5 +13,14 @@
     "mongodb": "^3.5.9",
     "nodemon": "^2.0.4",
     "socket.io": "^2.3.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevanshJain07/chatbot-with-mongodb-connection.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DevanshJain07/chatbot-with-mongodb-connection/issues"
+  },
+  "homepage": "https://github.com/DevanshJain07/chatbot-with-mongodb-connection#readme"
 }
